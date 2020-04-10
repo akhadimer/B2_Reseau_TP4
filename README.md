@@ -1,13 +1,18 @@
 # B2_Reseau_TP4
 
 [config infra](https://github.com/akhadimer/B2_Reseau_TP4/blob/master/infra-sw1.conf)
+
 [config sw1](https://github.com/akhadimer/B2_Reseau_TP4/blob/master/client-sw1.conf)
+
 [config sw2](https://github.com/akhadimer/B2_Reseau_TP4/blob/master/client-sw2.conf)
+
 [config sw3](https://github.com/akhadimer/B2_Reseau_TP4/blob/master/client-sw3.conf)
+
 [config r1](https://github.com/akhadimer/B2_Reseau_TP4/blob/master/r1.conf)
 
 Ping :
 - admin 1 vers admin 3 :
+
 ```
 admin1> ping 10.5.10.13
 84 bytes from 10.5.10.13 icmp_seq=1 ttl=64 time=0.466 ms
