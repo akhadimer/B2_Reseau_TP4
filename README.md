@@ -1,4 +1,6 @@
 # B2_Reseau_TP4
+Thomas Dumont
+B2A
 
 [config infra](https://github.com/akhadimer/B2_Reseau_TP4/blob/master/infra-sw1.conf)
 
